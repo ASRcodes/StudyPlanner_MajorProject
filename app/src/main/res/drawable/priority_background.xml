@@ -1,0 +1,6 @@
+<!-- priority_background.xml (default, will be overridden) -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <solid android:color="#CCCCCC" />
+    <corners android:radius="8dp" />
+</shape>
